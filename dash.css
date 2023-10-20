@@ -1,0 +1,14 @@
+#divPai{
+    margin-top: 180px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+#titulo{
+display: flex;
+justify-content: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 30px;
+}
+
